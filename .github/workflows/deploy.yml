@@ -35,8 +35,6 @@ jobs:
 
       - name: Preparar o Pages
         uses: actions/configure-pages@v5
-        with:
-          enablement: true
 
       - name: Enviar artefato
         uses: actions/upload-pages-artifact@v3
