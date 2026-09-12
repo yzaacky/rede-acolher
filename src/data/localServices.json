@@ -1,0 +1,35 @@
+[
+{
+    "id": "cras-01",
+    "name": "CRAS - Centro de Referência de Assistência Social",
+    "type": "Assistência Social",
+    "address": "Rua Exemplo, 123 - Bairro Centro",
+    "city": "[CIDADE / UF]",
+    "phone": "(00) 3333-1111",
+    "hours": "08:00 às 17:00 (Segunda a Sexta)",
+    "services": "Acolhimento socioassistencial, acompanhamento familiar, orientação sobre benefícios.",
+    "isPlaceholder": true
+},
+{
+    "id": "deam-01",
+    "name": "DEAM - Delegacia Especializada de Atendimento à Mulher",
+    "type": "Segurança Pública",
+    "address": "Avenida da Segurança, 456 - Bairro Alto",
+    "city": "[CIDADE / UF]",
+    "phone": "(00) 3333-2222",
+    "hours": "24 horas",
+    "services": "Boletim de ocorrência, pedido de medidas protetivas de urgência, encaminhamento a exames.",
+    "isPlaceholder": true
+},
+{
+    "id": "defensoria-01",
+    "name": "Defensoria Pública - Núcleo de Defesa da Mulher",
+    "type": "Jurídico",
+    "address": "Praça dos Três Poderes, 789 - Centro",
+    "city": "[CIDADE / UF]",
+    "phone": "(00) 3333-3333",
+    "hours": "12:00 às 18:00 (Segunda a Sexta)",
+    "services": "Orientação jurídica gratuita, acompanhamento de processos da Lei Maria da Penha, divórcio e guarda.",
+    "isPlaceholder": true
+}
+]

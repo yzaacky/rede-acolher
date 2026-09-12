@@ -1,0 +1,26 @@
+:root {
+--bg-ivory: #F5F1E8;
+--bg-card: #FFFDF8;
+--text-primary: #24302D;
+--text-secondary: #53605B;
+
+--brand-deep-green: #17453F;
+--brand-medium-green: #3C7468;
+--brand-terracotta: #C3644C;
+--brand-terracotta-dark: #934633;
+--brand-warm-yellow: #E8B95D;
+
+--emergency-red: #A52E32;
+--emergency-bg: #FFF2EE;
+--emergency-border: #F0C5BB;
+
+--border-subtle: #D8D2C5;
+--focus-ring: #C3644C;
+
+--font-heading: Georgia, 'Times New Roman', serif;
+--font-body: 'Avenir Next', Avenir, 'Trebuchet MS', sans-serif;
+
+--container-max-width: 1180px;
+--radius-subtle: 8px;
+--transition-normal: 0.22s ease-in-out;
+}
