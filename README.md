@@ -20,3 +20,16 @@ O objetivo do site é conscientizar sobre a violência doméstica, explicar os d
 2. **Instalar as dependências:**
    ```bash
    npm install
+   ```
+3. **Iniciar o servidor de desenvolvimento:**
+   ```bash
+   npm run dev
+   ```
+
+Para gerar a versão de produção:
+
+```bash
+npm run build
+```
+
+O projeto também possui publicação automática no GitHub Pages por meio do workflow em `.github/workflows/deploy.yml`.
