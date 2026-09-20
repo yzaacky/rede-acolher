@@ -32,10 +32,10 @@ projectName: "Rede Acolher",
 slogan: "Informação, proteção e caminhos para pedir ajuda.",
 
 partnerInstitution: {
-    name: "[NOME DA INSTITUIÇÃO PARCEIRA]",
-    type: "Centro de Referência de Assistência Social",
-    responsiblePerson: "[NOME DO RESPONSÁVEL DA INSTITUIÇÃO]",
-    cityState: "[CIDADE / UF]",
+    name: "Roentgen Diagnostico LDTA",
+    type: "Diagnóstico por imagem",
+    responsiblePerson: "Será atualizado posteriormente.",
+    cityState: "Niterói/RJ",
     address: "Informação local a ser adicionada após validação com a instituição parceira.",
     phone: "(00) 0000-0000",
     email: "contato@instituicao.org.br",
@@ -46,7 +46,7 @@ partnerInstitution: {
 extensionProject: {
     university: "UNIASSELVI - Centro Universitário Leonardo da Vinci",
     course: "Análise e Desenvolvimento de Sistemas",
-    studentName: "[NOME DO ESTUDANTE]",
+    studentName: "Izaack Pires de Souza e Miguel Rodrigues Monteiro",
     developmentPeriod: "2026/1",
     ods: "ODS 16 - Paz, Justiça e Instituições Eficazes (ONU)"
 },

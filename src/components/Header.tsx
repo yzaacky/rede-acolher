@@ -37,7 +37,7 @@ export const Header: React.FC<HeaderProps> = ({ activeTab, setActiveTab }) => {
     <header className="site-header" style={{ backgroundColor: 'var(--bg-ivory)', borderBottom: '1px solid var(--border-subtle)', position: 'sticky', top: 0, zIndex: 100 }}>
       <div className="security-strip" style={{ backgroundColor: '#EDE6D8', padding: '0.4rem 0', fontSize: '0.85rem', color: 'var(--text-secondary)' }}>
         <div className="container security-bar-inner" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-          <span>🔒 Navegação segura. Para sair rapidamente, pressione <strong>ESC</strong>.</span>
+          <span>Navegação segura. Para sair rapidamente, pressione <strong>ESC</strong>.</span>
           <QuickExit />
         </div>
       </div>

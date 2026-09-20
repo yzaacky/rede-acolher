@@ -31,10 +31,10 @@ export const SobreOProjeto: React.FC = () => {
       <div style={{ backgroundColor: '#FFFFFF', padding: '2rem', borderRadius: 'var(--radius-subtle)', border: '1px solid var(--border-subtle)' }}>
         <h2>Ficha Técnica e Responsáveis</h2>
         <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '0.75rem', marginTop: '1rem' }}>
-          <li><strong>Estudante Desenvolvedor(a):</strong> {extensionProject.studentName}</li>
+          <li><strong>Desenvolvedores:</strong> {extensionProject.studentName}</li>
           <li><strong>Instituição Parceira:</strong> {partnerInstitution.name}</li>
           <li><strong>Responsável na Instituição:</strong> {partnerInstitution.responsiblePerson}</li>
-          <li><strong>Município / UF:</strong> {partnerInstitution.cityState}</li>
+          <li><strong>Município/UF:</strong> {partnerInstitution.cityState}</li>
           <li><strong>Período Letivo:</strong> {extensionProject.developmentPeriod}</li>
           <li><strong>Última Revisão de Conteúdo:</strong> {institutionConfig.lastRevisionDate}</li>
         </ul>
