@@ -36,10 +36,10 @@ partnerInstitution: {
     type: "Diagnóstico por imagem",
     responsiblePerson: "Será atualizado posteriormente.",
     cityState: "Niterói/RJ",
-    address: "Informação local a ser adicionada após validação com a instituição parceira.",
+    address: "Rua Gavião Peixoto, 182 - Salas 410 - 411 - 412 - Icaraí, Niterói - RJ, 24230-101",
     phone: "21 30316100",
     email: "Atendimento@dme.med.br",
-    workingHours: "Segunda a Sexta, das 08h às 17h",
+    workingHours: "Domingo: fechado; segunda a sexta: 08:00-18:00; sábado: 08:00-12:00",
     isVerified: false
 },
 
