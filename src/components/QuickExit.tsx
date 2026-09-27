@@ -8,13 +8,14 @@ const handleQuickExit = () => {
 
 useEffect(() => {
     const handleKeyDown = (event: KeyboardEvent) => {
-if (event.key === 'Escape') {
+if (event.key === 'Escape' || event.key === 'Esc') {
+    event.preventDefault();
         handleQuickExit();
 }
     };
 
-    window.addEventListener('keydown', handleKeyDown);
-    return () => window.removeEventListener('keydown', handleKeyDown);
+  window.addEventListener('keydown', handleKeyDown, true);
+  return () => window.removeEventListener('keydown', handleKeyDown, true);
 }, []);
 
 return (

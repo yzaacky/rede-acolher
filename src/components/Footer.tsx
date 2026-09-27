@@ -28,6 +28,12 @@ export const Footer: React.FC = () => {
           <h4 style={{ color: '#FFFFFF', fontSize: '1rem', marginBottom: '0.75rem' }}>Instituição Parceira</h4>
           <p style={{ fontSize: '0.9rem' }}>{institutionConfig.partnerInstitution.name}</p>
           <p style={{ fontSize: '0.85rem', color: '#CBD5E1' }}>{institutionConfig.partnerInstitution.address}</p>
+          <p style={{ fontSize: '0.85rem', color: '#CBD5E1' }}>
+            Telefone: <a href={`tel:${institutionConfig.partnerInstitution.phone.replace(/\s/g, '')}`} style={{ color: 'inherit' }}>{institutionConfig.partnerInstitution.phone}</a>
+          </p>
+          <p style={{ fontSize: '0.85rem', color: '#CBD5E1' }}>
+            E-mail: <a href={`mailto:${institutionConfig.partnerInstitution.email}`} style={{ color: 'inherit' }}>{institutionConfig.partnerInstitution.email}</a>
+          </p>
           <p style={{ fontSize: '0.85rem', color: '#CBD5E1' }}>Horário: {institutionConfig.partnerInstitution.workingHours}</p>
         </div>
       </div>

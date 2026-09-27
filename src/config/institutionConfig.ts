@@ -37,8 +37,8 @@ partnerInstitution: {
     responsiblePerson: "Será atualizado posteriormente.",
     cityState: "Niterói/RJ",
     address: "Informação local a ser adicionada após validação com a instituição parceira.",
-    phone: "(00) 0000-0000",
-    email: "contato@instituicao.org.br",
+    phone: "21 30316100",
+    email: "Atendimento@dme.med.br",
     workingHours: "Segunda a Sexta, das 08h às 17h",
     isVerified: false
 },
@@ -46,7 +46,7 @@ partnerInstitution: {
 extensionProject: {
     university: "UNIASSELVI - Centro Universitário Leonardo da Vinci",
     course: "Análise e Desenvolvimento de Sistemas",
-    studentName: "Izaack Pires de Souza e Miguel Rodrigues Monteiro",
+    studentName: "Izaack Pires de Souza, Miguel Rodrigues Monteiro e Michel Abreu da Penha",
     developmentPeriod: "2026/1",
     ods: "ODS 16 - Paz, Justiça e Instituições Eficazes (ONU)"
 },
